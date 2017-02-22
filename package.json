@@ -1,6 +1,6 @@
 {
     "name": "ginfuru-onedark-raincoat-theme",
-    "displayName": "One Dark RainCoat",
+    "displayName": "One Dark Rain Coat",
     "description": "A slightly modified version of the One Dark (Sublime Babel) for Visual Studio Code ",
     "version": "0.0.1",
     "publisher": "ginfuru",
@@ -10,10 +10,15 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#44494f",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "One Dark RainCoat",
+                "label": "One Dark Rain Coat",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneDarkRainCoat.tmTheme"
             }
