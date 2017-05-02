@@ -21,11 +21,6 @@
                 "label": "One Dark Rain Coat",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneDarkRainCoat.tmTheme"
-            },
-            {
-                "label": "One Dark Solarized Rain Coat",
-                "uiTheme": "vs-dark",
-                "path": "./themes/OneDarkSolarizedRainCoat.tmTheme"
             }
         ]
     }
