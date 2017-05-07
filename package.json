@@ -20,7 +20,7 @@
             {
                 "label": "One Dark Rain Coat",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneDarkRainCoat.tmTheme"
+                "path": "./themes/OneDarkRainCoat.json"
             }
         ]
     }
