@@ -595,6 +595,6 @@
     }
   ],
   "colors":{
-    
+    "statusBar.background": "#ABB1BA" 
   }
 }
