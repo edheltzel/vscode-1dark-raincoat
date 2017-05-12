@@ -23,6 +23,13 @@
         "OneDark",
         "theme"
     ],
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "homepage": "https://github.com/ginfuru/vscode-onedark-raincoat",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ginfuru/vscode-onedark-raincoat.git"
+    },
+    "bugs": "https://github.com/ginfuru/vscode-onedark-raincoat/issues",
     "contributes": {
         "themes": [
             {
