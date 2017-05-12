@@ -5,16 +5,24 @@
     "version": "0.2.2",
     "publisher": "ginfuru",
     "engines": {
-        "vscode": "^1.5.0"
+        "vscode": "^1.12.0"
     },
     "categories": [
         "Themes"
     ],
     "icon": "images/icon.png",
     "galleryBanner": {
-        "color": "#44494f",
+        "color": "#333333",
         "theme": "dark"
     },
+    "keywords": [
+        "bable",
+        "es6",
+        "sublime",
+        "one dark",
+        "OneDark",
+        "theme"
+    ],
     "contributes": {
         "themes": [
             {
