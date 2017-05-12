@@ -1,7 +1,3 @@
 # Change Log
-All notable changes to the "ginfuru-onedark-raincoat-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-- Initial release, includes Workbench Theme to match the color scheme
+## 0.1.0 | 05-12-2017
+Initial release, includes Workbench Theme to match the color scheme
