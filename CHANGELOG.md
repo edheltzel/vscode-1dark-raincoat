@@ -4,4 +4,4 @@ All notable changes to the "ginfuru-onedark-raincoat-theme" extension will be do
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
-- Initial release
+- Initial release, includes Workbench Theme to match the color scheme

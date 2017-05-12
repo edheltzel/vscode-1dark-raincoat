@@ -1,14 +1,29 @@
-# README
-## This is the README for your extension "ginfuru-onedark-raincoat-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# OneDark Rain Coat
+A “slightly” modified version of the One Dark (Sublime Babel) theme for Visual Studio Code.
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+[GitHub repository](https://github.com/ginfuru/vscode-onedark-raincoat)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# CHANGELOG
+[CHANGELOG.MD](CHANGELOG.md)
 
-**Enjoy!**
-`ext install sublime-babel-vscode`
+# Additional Customization and other Tweaks
+See something that you'd reather change? Feel free to edit and customize all you want by using the setting `workbench.colorCustomizations` to make any edits or add your own editions. 
+
+Just open up your `setttings.json` and hack way.
+
+```json
+"workbench.colorCustomizations":{
+  "peekView.border": "#E50A69AB",
+  "peekViewTitle.background": "#101119",
+  "peekViewResult.background": "#101119",
+  "peekViewEditor.background": "#202232",
+  "peekViewEditor.matchHighlightBackground": "#314365"
+}
+```
+
+# ScreenShot
+![ScreenShot](https://raw.githubusercontent.com/ginfuru/vscode-onedark-raincoat/master/images/screenshotA.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ginfuru/vscode-onedark-raincoat/master/images/screenshotB.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ginfuru/vscode-onedark-raincoat/master/images/screenshotC.png)
