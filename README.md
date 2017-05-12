@@ -3,8 +3,6 @@ A “slightly” modified version of the [One Dark (Sublime Babel)](https://gith
 This theme **supports ES6/Babel** and is optimized for [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode) Extension. 
 
 
-[GitHub repository](https://github.com/ginfuru/vscode-onedark-raincoat)
-
 # CHANGELOG
 [CHANGELOG.MD](CHANGELOG.md)
 
