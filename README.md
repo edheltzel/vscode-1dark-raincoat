@@ -1,15 +1,11 @@
 # OneDark Rain Coat
-A “slightly” modified version of the [One Dark (Sublime Babel)](https://github.com/joshpeng/One-Dark) theme for Visual Studio Code.
-This theme **supports ES6/Babel** and is optimized for [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode) Extension. 
-
-
-# CHANGELOG
-[CHANGELOG.MD](CHANGELOG.md)
+A _“slightly”_ modified version of the [One Dark (Sublime Babel)](https://marketplace.visualstudio.com/items?itemName=joshpeng.theme-onedark-sublime) theme for Visual Studio Code.
+This theme **supports ES6/Babel** and is optimized for [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode) Extension.
 
 # Additional Customization and other Tweaks
-See something that you'd reather change? Feel free to edit and customize all you want by using the setting `workbench.colorCustomizations` to make any edits or add your own editions. 
+See something that you'd rather change? No problem, feel free to edit and customize by using the `workbench.colorCustomizations` setting. Check out the [Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) for additional options
 
-Just open up your `setttings.json` and hack way.
+Open up your `setttings.json` and hack way.
 
 ```json
 "workbench.colorCustomizations":{
