@@ -48,7 +48,10 @@
     "peekViewTitle.background": "#101119",
     "peekViewResult.background": "#101119",
     "peekViewEditor.background": "#202232",
-    "peekViewEditor.matchHighlightBackground": "#314365"
+    "peekViewEditor.matchHighlightBackground": "#314365",
+    "scrollbarSlider.background": "#AE81FF1B",
+    "scrollbarSlider.activeBackground": "#AE81FF7B",
+    "scrollbarSlider.hoverBackground": "#AE81FF3B"
   },
   "tokenColors": [
     {
