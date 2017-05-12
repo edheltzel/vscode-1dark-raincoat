@@ -24,8 +24,8 @@ Just open up your `setttings.json` and hack way.
 ```
 
 # ScreenShot
-![ScreenShot](https://raw.githubusercontent.com/ginfuru/vscode-onedark-raincoat/master/images/screenshotA.png)
+![ScreenShot](https://raw.github.com/ginfuru/vscode-onedark-raincoat/master/images/screenshotA.png)
 
-![ScreenShot](https://raw.githubusercontent.com/ginfuru/vscode-onedark-raincoat/master/images/screenshotB.png)
+![ScreenShot](https://raw.github.com/ginfuru/vscode-onedark-raincoat/master/images/screenshotB.png)
 
-![ScreenShot](https://raw.githubusercontent.com/ginfuru/vscode-onedark-raincoat/master/images/screenshotC.png)
+![ScreenShot](https://raw.github.com/ginfuru/vscode-onedark-raincoat/master/images/screenshotC.png)
