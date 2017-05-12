@@ -1,4 +1,7 @@
 # Change Log
+## 0.2.6 | 05-12-2017
+added scrollbar coloring
+
 ## 0.2.5 | 05-12-2017
 added `joshpeng.sublime-babel-vscode` as `extensionDependencies` and updated the readme
 
