@@ -1,5 +1,5 @@
 # OneDark Rain Coat
-A _“slightly”_ modified version of the [One Dark (Sublime Babel)](https://marketplace.visualstudio.com/items?itemName=joshpeng.theme-onedark-sublime) theme for Visual Studio Code.
+A _“slightly”_ modified version of the [One Dark + (Sublime Babel)](https://marketplace.visualstudio.com/items?itemName=joshpeng.theme-onedark-sublime) theme for Visual Studio Code.
 This theme **supports ES6/Babel** and is optimized for [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode) Extension.
 
 # Additional Customization and other Tweaks

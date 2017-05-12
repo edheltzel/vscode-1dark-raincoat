@@ -1,6 +1,6 @@
 # Change Log
 ## 0.2.5 | 05-12-2017
-added `joshpeng.sublime-babel-vscode` as `extensionDependencies`
+added `joshpeng.sublime-babel-vscode` as `extensionDependencies` and updated the readme
 
 ## 0.2.2 | 05-12-2017
 Error with personal-access token and publishing so this is pointless change
