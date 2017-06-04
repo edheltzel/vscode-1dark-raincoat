@@ -1,4 +1,10 @@
 # Change Log
+## 0.2.8 | 06-04-2017
+added more consistency with colors on borders and contrast
+
+## 0.2.7 | 05-20-2017
+added more colors the panel, dropdowns and link colors
+
 ## 0.2.6 | 05-12-2017
 added scrollbar coloring
 
