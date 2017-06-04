@@ -1,4 +1,7 @@
 # Change Log
+## 0.2.9 | 06-04-2017
+activiy, status and title bar color change + change log update
+
 ## 0.2.8 | 06-04-2017
 added more consistency with colors on borders and contrast
 
