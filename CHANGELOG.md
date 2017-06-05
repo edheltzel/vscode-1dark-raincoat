@@ -1,4 +1,7 @@
 # Change Log
+## 0.3.0 | 06-05-2017
+changed the sidebar, editorgroup header, inactive tabs background and foreground colors
+
 ## 0.2.9 | 06-04-2017
 activiy, status and title bar color change + change log update
 
