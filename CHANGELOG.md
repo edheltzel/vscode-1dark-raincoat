@@ -1,5 +1,8 @@
 # Change Log
-## 0.3.0 | 06-05-2017
+## 0.2.11 | 06-05-2017
+screenshot updates and fixed `editorWidget.background` color to match sidebar
+
+## 0.2.10 | 06-05-2017
 changed the sidebar, editorgroup header, inactive tabs background and foreground colors
 
 ## 0.2.9 | 06-04-2017
