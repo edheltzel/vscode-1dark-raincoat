@@ -1,5 +1,8 @@
 # Change Log
-## 0.2.13 | 06-05-2017
+## 0.2.15 | 06-05-2017
+last attempt to fix the image paths in readme
+
+## 0.2.14 | 06-05-2017
 another hotfix for the readme image paths - it’s a monday. 
 
 ## 0.2.13 | 06-05-2017
