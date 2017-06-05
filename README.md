@@ -18,10 +18,10 @@ Open up your `setttings.json` and hack way.
 ```
 
 # ScreenShot
-![ScreenShot Workspace](https://github.com/ginfuru/vscode-onedark-raincoat/blob/master/images/ScreenShotA.png)
+![ScreenShot Workspace](https://github.com/ginfuru/vscode-onedark-raincoat/blob/master/images/screenshotA.png)
 
-![ScreenShot Peek View](https://github.com/ginfuru/vscode-onedark-raincoat/blob/master/images/ScreenShotB.png)
+![ScreenShot Peek View](https://github.com/ginfuru/vscode-onedark-raincoat/blob/master/images/screenshotB.png)
 
-![ScreenShot Peek and Command Prompt](https://github.com/ginfuru/vscode-onedark-raincoat/blob/master/images/ScreenShotC.png)
+![ScreenShot Peek and Command Prompt](https://github.com/ginfuru/vscode-onedark-raincoat/blob/master/images/screenshotC.png)
 
-![ScreenShot Intellisense](https://github.com/ginfuru/vscode-onedark-raincoat/blob/master/images/ScreenShotD.png)
+![ScreenShot Intellisense](https://github.com/ginfuru/vscode-onedark-raincoat/blob/master/images/screenshotD.png)
