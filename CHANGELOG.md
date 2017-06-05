@@ -1,4 +1,7 @@
 # Change Log
+## 0.2.12 | 06-05-2017
+hotfix for screenshot paths in readme
+
 ## 0.2.11 | 06-05-2017
 screenshot updates and fixed `editorWidget.background` color to match sidebar
 
