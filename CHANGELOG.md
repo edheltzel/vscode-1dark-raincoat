@@ -1,5 +1,8 @@
 # Change Log
 ## 0.2.13 | 06-05-2017
+another hotfix for the readme image paths - it’s a monday. 
+
+## 0.2.13 | 06-05-2017
 hotfix for screenshot paths in readme agin >:(
 
 ## 0.2.12 | 06-05-2017
