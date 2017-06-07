@@ -18,6 +18,10 @@ Open up your `setttings.json` and hack way.
 ```
 
 # ScreenShot
+Thanks to [pull-request #3](https://github.com/ginfuru/vscode-onedark-raincoat/pull/3) by @Joraz there is better support for JSDoc comments 👍🏼
+
+![JSDoc comment highlights](https://user-images.githubusercontent.com/6012242/26871893-9eb41772-4b6c-11e7-9db1-e60715fe7cc7.png)
+
 ![ScreenShot Workspace](https://raw.github.com/ginfuru/vscode-onedark-raincoat/master/images/screenshotA.png)
 
 ![ScreenShot Peek View](https://raw.github.com/ginfuru/vscode-onedark-raincoat/master/images/screenshotB.png)

@@ -1,4 +1,7 @@
 # Change Log
+## 0.2.16 | 06-07-2017
+PR merged from @joraz - adds additional colors for symobls within JSDoc Comments 
+
 ## 0.2.15 | 06-05-2017
 last attempt to fix the image paths in readme
 
