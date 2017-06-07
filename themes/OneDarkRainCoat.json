@@ -648,6 +648,13 @@
       "settings": {
         "foreground": "#b267e6"
       }
+    },
+    {
+      "name": "Javascript JSDoc Symbol",
+      "scope": "entity.name.type.instance.jsdoc",
+      "settings": {
+        "foreground": "#E5C07B"
+      }
     }
   ]
 }
