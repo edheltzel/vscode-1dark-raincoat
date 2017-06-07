@@ -236,7 +236,7 @@
           <string>#ABB2BF</string>
         </dict>
       </dict>
-      
+
       <dict>
         <key>name</key>
         <string>Language</string>
@@ -921,6 +921,17 @@
         <dict>
           <key>foreground</key>
           <string>#E6DB74</string>
+        </dict>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Javascript JSDoc Symbol</string>
+        <key>scope</key>
+        <string>entity.name.type.instance.jsdoc</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#E5C07B</string>
         </dict>
       </dict>
     </array>
