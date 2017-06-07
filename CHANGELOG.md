@@ -1,4 +1,14 @@
 # Change Log
+## 0.2.17 | 06-07-2017
+Lots of additions regarding the theme
+- added button colors
+- added notifcations
+- added debugToolbar
+- added/updated input options validation
+- updated focus border
+- updated status bar color for degbug mode
+- added pickerGroup
+
 ## 0.2.16 | 06-07-2017
 PR merged from @joraz - adds additional colors for symobls within JSDoc Comments 
 
