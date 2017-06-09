@@ -51,6 +51,8 @@
     "peekViewEditor.background": "#202232",
     "peekViewEditor.matchHighlightBackground": "#314365",
     "peekViewResult.background": "#101119",
+    "peekViewResult.matchHighlightBackground": "#8A78FEAB",
+    "peekViewResult.selectionBackground": "#AE81FF3B",
     "peekViewTitle.background": "#101119",
     "pickerGroup.foreground": "#AE81FF",
     "pickerGroup.border": "#AE81FF6B",
