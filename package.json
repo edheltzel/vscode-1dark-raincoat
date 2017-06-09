@@ -2,7 +2,7 @@
     "name": "ginfuru-onedark-raincoat-theme",
     "displayName": "One Dark Rain Coat",
     "description": "A slightly modified version of the One Dark (Sublime Babel) and Solarized Dark for Visual Studio Code ",
-    "version": "0.2.17",
+    "version": "0.2.18",
     "publisher": "ginfuru",
     "engines": {
         "vscode": "^1.12.0"
