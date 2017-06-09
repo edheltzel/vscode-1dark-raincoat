@@ -1,7 +1,13 @@
 # Change Log
 
+## 0.2.19 | 06-09-2017
+changed colors for peek def.
+- `peekViewResult.matchHighlightBackground`
+- `peekViewResult.selectionBackground`
+- updated `screenshotC.png`
+
 ## 0.2.18 | 06-09-2017
-changed colors for find/replace inputs
+changed colors for find/replace inputs and peek def.
 - `inputOption.activeBoarder`
 - `inputValidation.infoBackground`
 - `inputValidation.infoBorder`
