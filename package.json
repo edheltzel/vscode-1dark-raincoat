@@ -1,7 +1,7 @@
 {
     "name": "ginfuru-onedark-raincoat-theme",
     "displayName": "One Dark Rain Coat",
-    "description": "A slightly modified version of the One Dark (Sublime Babel) and Solarized Dark for Visual Studio Code ",
+    "description": "A modified version of the One Dark + (Sublime Babel) color scheme, plus a custom Workbench theme",
     "version": "0.2.18",
     "publisher": "ginfuru",
     "engines": {
@@ -20,7 +20,7 @@
         "es6",
         "sublime",
         "one dark",
-        "theme"
+        "atom"
     ],
     "license": "SEE LICENSE IN LICENSE.txt",
     "homepage": "https://github.com/ginfuru/vscode-onedark-raincoat",
