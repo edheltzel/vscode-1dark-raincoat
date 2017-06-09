@@ -1,4 +1,11 @@
 # Change Log
+
+## 0.2.18 | 06-09-2017
+changed colors for find/replace inputs
+- `inputOption.activeBoarder`
+- `inputValidation.infoBackground`
+- `inputValidation.infoBorder`
+
 ## 0.2.17 | 06-07-2017
 Lots of additions regarding the theme
 - added button colors
