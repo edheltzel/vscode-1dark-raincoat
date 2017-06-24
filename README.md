@@ -1,4 +1,4 @@
-# OneDark Rain Coat
+# OneDark Rain Coat [![GitHub release](https://img.shields.io/github/release/ginfuru/vscode-onedark-raincoat.svg)](https://github.com/ginfuru/vscode-onedark-raincoat/releases)
 A modified version of the [One Dark + (Sublime Babel)](https://marketplace.visualstudio.com/items?itemName=joshpeng.theme-onedark-sublime) color scheme and custom Workbench theme for Visual Studio Code.<br>
 This color scheme/theme **supports ES6/Babel** and is optimized for [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode) Extension.
 
