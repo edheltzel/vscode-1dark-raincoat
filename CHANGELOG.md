@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.20 | 09-06-2017
+Update to colors and better theme support
+
 ## 0.2.19 | 06-09-2017
 changed colors for peek def.
 - `peekViewResult.matchHighlightBackground`
