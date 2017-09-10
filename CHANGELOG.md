@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.21 | 09-10-2017
+added `tab.activeBorder` and `tab.unfocusedActiveBorder` colors
+
 ## 0.2.20 | 09-06-2017
 Update to colors and better theme support
 
