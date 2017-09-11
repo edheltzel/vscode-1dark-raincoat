@@ -97,7 +97,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#5C6370",
+        "foreground": "#5C637085",
         "fontStyle": "italic"
       }
     },
@@ -106,7 +106,7 @@
       "scope": "string.quoted.docstring.multi.python, string.quoted.docstring.multi.python keyword.control.flow.python",
       "settings": {
         "foreground": "#5C6370",
-        "fontStyle": "italic"
+        "fontStyle": "italic"        
       }
     },
     {
@@ -422,6 +422,16 @@
       "settings": {
         "fontStyle": "",
         "foreground": "#56B6C2"
+      }
+    },
+    {
+      "name": "Liquid Tags",
+      "scope": [
+        "punctuation.output.liquid",
+        "punctuation.tag.liquid"
+      ],
+      "settings": {
+        "foreground": "#5c6370"
       }
     },
     {
