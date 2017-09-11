@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.22 | 09-11-2017
+added liquid scope to syntax
+- adds syntax highlighting for `{% %}` and `{{ }}`
+
 ## 0.2.21 | 09-10-2017
 added `tab.activeBorder` and `tab.unfocusedActiveBorder` colors
 
