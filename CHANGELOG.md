@@ -1,5 +1,13 @@
 # Change Log
 
+## 0.2.24 | 09-15-2017
+patch release
+
+## 0.2.23 | 09-15-2017
+resolves issue [#6](https://github.com/ginfuru/vscode-onedark-raincoat/issues/6)
+- changes comment colors to `#5C6370`
+- changes liquid punctuation to `#868e9d`
+
 ## 0.2.22 | 09-11-2017
 added liquid scope to syntax
 - adds syntax highlighting for `{% %}` and `{{ }}`
