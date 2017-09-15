@@ -97,7 +97,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#5C637085",
+        "foreground": "#5C6370",
         "fontStyle": "italic"
       }
     },
@@ -431,7 +431,7 @@
         "punctuation.tag.liquid"
       ],
       "settings": {
-        "foreground": "#5c6370"
+        "foreground": "#868e9d"
       }
     },
     {
