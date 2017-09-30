@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.25 | 09-30-2017
+- changes liquid punctuation to `#C8DDFCD1` to be slightly brighter 
+
 ## 0.2.24 | 09-15-2017
 patch release
 
