@@ -435,6 +435,18 @@
       }
     },
     {
+      "name": "Jekyll Front Matter Tags",
+      "scope": [
+        "punctuation.output.jekyll",
+        "punctuation.tag.jekyll",
+        "punctuation.frontmatter.jekyll"
+      ],
+      "settings": {
+        "foreground": "#C8DDFCD1"
+      }
+    },
+
+    {
       "name": "Python support function",
       "scope": "python.builtin.support.function",
       "settings": {
