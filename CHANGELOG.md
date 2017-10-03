@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.27 | 10-03-2017
+Fixed an issue with CSS/PostCSS/SCSS/Sass/LESS class syntax color was thrown off with nesting
+
 ## 0.2.26 | 10-02-2017
 better support for jekyll
 
