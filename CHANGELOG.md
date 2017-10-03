@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.30 | 10-03-2017
+- Fixes Issue #8 regarding Syntax Highlighting
+
 ## 0.2.29 | 10-03-2017
 - fix frontmatter color
 
