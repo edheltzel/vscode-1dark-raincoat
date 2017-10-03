@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.29 | 10-03-2017
+- fix frontmatter color
+
 ## 0.2.28 | 10-03-2017
 Color Scheme Updates:
 - Adds a Bright version of One Dark Rain Coat
