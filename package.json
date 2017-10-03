@@ -16,7 +16,7 @@
         "theme": "dark"
     },
     "keywords": [
-        "bable",
+        "javascript",
         "es6",
         "sublime",
         "one dark",
@@ -35,6 +35,11 @@
                 "label": "One Dark Rain Coat",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneDarkRainCoat.json"
+            },
+            {
+                "label": "One Dark Rain Coat Bright",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneDarkRainCoat-Bright.json"
             }
         ]
     },

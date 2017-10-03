@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.2.28 | 10-03-2017
+Color Scheme Updates:
+- Adds a Bright version of One Dark Rain Coat
+
+Theme Updates:
+- updated `"statusBar.noFolderBackground": "#473C9B"`
+
 ## 0.2.27 | 10-03-2017
 Fixed an issue with CSS/PostCSS/SCSS/Sass/LESS class syntax color was thrown off with nesting
 

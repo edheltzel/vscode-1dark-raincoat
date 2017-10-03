@@ -15,7 +15,7 @@
     "editor.editor.findMatchBackground": "#42557B",
     "editor.findMatchHighlightBackground": "#314365",
     "editor.findRangeHighlightBackground": "#8A78FE",
-    "editor.foreground": "#ABB2BF",
+    "editor.foreground": "#AAB1C0",
     "editor.hoverHighlightBackground": "#42557BAB",
     "editor.lineHighlightBackground": "#101119",
     "editor.rangeHighlightBackground": "#39336870",
@@ -71,7 +71,7 @@
     "statusBar.background": "#101119",
     "statusBar.debuggingBackground": "#314365",
     "statusBar.foreground": "#ABB1BAAB",
-    "statusBar.noFolderBackground": "#AE81FF7B",
+    "statusBar.noFolderBackground": "#473C9B",
     "statusBarItem.activeBackground": "#AE81FFEB",
     "statusBarItem.hoverBackground": "#AE81FF3B",
     "tab.activeForeground": "#F4F4F4AB",
@@ -1283,7 +1283,7 @@
         "frontmatter.jekyll"
       ],
       "settings": {
-        "foreground": "#C8DDFCD1"
+        "foreground": "#b267e6"
       }
     }
   ]
