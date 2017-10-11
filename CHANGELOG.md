@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.32 | 10-11-2017
+- swapped foreground colors to be `#A6B2C0` and active foreground to be `#C8DDFC`
+
 ## 0.2.31 | 10-11-2017
 - Adds support for `git.color.untracked` and `git.color.modified` inside of the Explorer tree
 - Changed `sideBar.foreground` and `list.activeSelectionForeground` to previous variants of `#A6B2C0`
