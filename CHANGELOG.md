@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.2.31 | 10-11-2017
+- Adds support for `git.color.untracked` and `git.color.modified` inside of the Explorer tree
+- Changed `sideBar.foreground` and `list.activeSelectionForeground` to previous variants of `#A6B2C0`
+- Added `sideBarTitle.foreground`
+- Changed `tab.activeForeground` and `tab.activeBorder`
+- Chanaged `statusBarItem.activeBackground` and `statusBarItem.hoverBackground`
+
 ## 0.2.30 | 10-03-2017
 - Fixes Issue #8 regarding Syntax Highlighting
 
