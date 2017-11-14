@@ -22,7 +22,7 @@
     "editor.selectionBackground": "#314365",
     "editorBracketMatch.background": "#AE81FF20",
     "editorBracketMatch.border": "#8A78FE50",
-    "editorIndentGuide.background": "#5C637040",
+    "editorIndentGuide.background": "#5C637030",
     "editorCursor.foreground": "#FFCC00",
     "editorGroup.border": "#292A32",
     "editorGroup.dropBackground": "#AE81FF3B",
@@ -35,7 +35,7 @@
     "editorSuggestWidget.background": "#0D0E14",
     "editorSuggestWidget.border": "#292A32",
     "editorSuggestWidget.selectedBackground": "#ABB1BA1B",
-    "editorWhitespace.foreground": "#5C637040",
+    "editorWhitespace.foreground": "#5C637030",
     "editorWidget.background": "#222330",
     "focusBorder": "#AE81FF6B",
     "git.color.untracked": "#C8DDFC",
@@ -47,12 +47,12 @@
     "inputValidation.infoBackground": "#161821",
     "inputValidation.infoBorder": "#AE81FF6B",
     "list.activeSelectionBackground": "#AE81FF1B",
-    "list.activeSelectionForeground": "#C8DDFC",
+    "list.activeSelectionForeground": "#8A78FE",
     "list.focusBackground": "#AE81FF3B",
     "list.highlightForeground": "#8A78FE",
     "list.hoverBackground": "#AE81FF3B",
     "list.inactiveSelectionBackground": "#AE81FF1B",
-    "list.inactiveSelectionForeground": "#A986FE",
+    "list.inactiveSelectionForeground": "#C8DDFC",
     "notification.background": "#21252B",
     "panel.border": "#292A32AB",
     "panelTitle.activeBorder": "#AE81FFAB",
@@ -77,7 +77,7 @@
     "statusBar.foreground": "#ABB1BAAB",
     "statusBar.noFolderBackground": "#473C9B",
     "statusBarItem.activeBackground": "#473C9B",
-    "statusBarItem.hoverBackground": "#473C9BAB",
+    "statusBarItem.hoverBackground": "#463c9b96",
     "tab.activeForeground": "#C8DDFCBB",
     "tab.activeBorder": "#8A78FEAB",
     "tab.unfocusedActiveBorder": "#ae81ff50",
@@ -311,7 +311,7 @@
     },
     {
       "name": "C# Keyword",
-      "scope": "keyword, keyword.other.namespace, storage.modifier",
+      "scope": "keyword, keyword.other.namespace, storage.modifier,source.css meta.selector.css entity.other.attribute-name.pseudo-element.css",
       "settings": {
         "foreground": "#C678DD"
       }
@@ -484,7 +484,7 @@
     },
     {
       "name": "CSS property/constant",
-      "scope": "css.property-list.property-name",
+      "scope": "css.property-list.property-name, source.css meta.selector.css entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css", 
       "settings": {
         "fontStyle": "",
         "foreground": "#56B6C2"

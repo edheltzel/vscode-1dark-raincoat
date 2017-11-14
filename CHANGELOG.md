@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.33 | 11-14-2017
+- color adjustments to better match material icons 
+
 ## 0.2.32 | 10-11-2017
 - swapped foreground colors to be `#A6B2C0` and active foreground to be `#C8DDFC`
 

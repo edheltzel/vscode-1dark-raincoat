@@ -47,12 +47,12 @@
     "inputValidation.infoBackground": "#161821",
     "inputValidation.infoBorder": "#AE81FF6B",
     "list.activeSelectionBackground": "#AE81FF1B",
-    "list.activeSelectionForeground": "#C8DDFC",
+    "list.activeSelectionForeground": "#8A78FE",
     "list.focusBackground": "#AE81FF3B",
     "list.highlightForeground": "#8A78FE",
     "list.hoverBackground": "#AE81FF3B",
     "list.inactiveSelectionBackground": "#AE81FF1B",
-    "list.inactiveSelectionForeground": "#A986FE",
+    "list.inactiveSelectionForeground": "#C8DDFC",
     "notification.background": "#21252B",
     "panel.border": "#292A32AB",
     "panelTitle.activeBorder": "#AE81FFAB",
@@ -311,7 +311,7 @@
     },
     {
       "name": "C# Keyword",
-      "scope": "keyword, keyword.other.namespace, storage.modifier",
+      "scope": "keyword, keyword.other.namespace, storage.modifier,source.css meta.selector.css entity.other.attribute-name.pseudo-element.css",
       "settings": {
         "foreground": "#D55FDE"
       }
@@ -484,7 +484,7 @@
     },
     {
       "name": "CSS property/constant",
-      "scope": "css.property-list.property-name",
+      "scope": "css.property-list.property-name,source.css meta.selector.css entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css",
       "settings": {
         "fontStyle": "",
         "foreground": "#56B6C2"
