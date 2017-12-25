@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.34 | 12-25-2017
+- fine tuning the editor theme
+
 ## 0.2.33 | 11-14-2017
 - color adjustments to better match material icons 
 
