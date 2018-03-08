@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.36 | 03-08-2018
+Added `editorActiveLineNumber.foreground` support
+
 ## 0.2.35 | 12-31-2017
 Thanks to [@ajitid](https://github.com/ajitid) 👍🏼 
 - Merge Pull Request [#10](https://github.com/ginfuru/vscode-onedark-raincoat/pull/10) which fixes Issue [#9](https://github.com/ginfuru/vscode-onedark-raincoat/issues/9) 

@@ -13,6 +13,7 @@
     "debugToolBar.background": "#101119",
     "dropdown.background": "#0D0E14",
     "dropdown.border": "#292A32",
+    "editorActiveLineNumber.foreground": "#C8DDFC9A",
     "editor.background": "#161821",
     "editor.editor.findMatchBackground": "#42557B",
     "editor.findMatchHighlightBackground": "#314365",
