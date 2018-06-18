@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.2.37 | 06-18-2018
+Adds `"editorIndentGuide.activeBackground"`
+
 ## 0.2.36 | 03-08-2018
 Added `editorActiveLineNumber.foreground` support
 

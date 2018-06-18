@@ -31,6 +31,7 @@
     "editorGroupHeader.tabsBackground": "#222330",
     "editorHoverWidget.background": "#0D0E14",
     "editorHoverWidget.border": "#292A32",
+    "editorIndentGuide.activeBackground": "#6D57FFBB",
     "editorIndentGuide.background": "#5C637030",
     "editorLineNumber.foreground": "#5C637050",
     "editorLink.activeForeground": "#FFCC00AB",
