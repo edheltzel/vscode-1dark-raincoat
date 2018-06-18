@@ -2,7 +2,7 @@
     "name": "ginfuru-onedark-raincoat-theme",
     "displayName": "One Dark Rain Coat",
     "description": "A modified version of the One Dark + (Sublime Babel) color scheme, plus a custom Workbench theme",
-    "version": "0.2.36",
+    "version": "0.2.37",
     "publisher": "ginfuru",
     "engines": {
         "vscode": "^1.12.0"
@@ -45,5 +45,9 @@
     },
     "extensionDependencies": [
         "joshpeng.sublime-babel-vscode"
-    ]
+    ],
+    "dependencies": {
+        "global": "^4.3.2",
+        "vsce": "^1.42.0"
+    }
 }
