@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.3.0 | 09-29-2018
+YAML/JSON syntax updates
+
 ## 0.2.37 | 06-18-2018
 Adds `"editorIndentGuide.activeBackground"`
 
