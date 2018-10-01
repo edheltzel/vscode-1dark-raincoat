@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.4.0 | 10-01-2018
+Scss/Css and YAML/JSON syntax updates
+
 ## 0.3.0 | 09-29-2018
 YAML/JSON syntax updates
 

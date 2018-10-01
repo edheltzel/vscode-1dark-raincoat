@@ -445,6 +445,16 @@
       }
     },
     {
+      "name": "CSS Variables",
+      "scope": [
+        "variable.argument.css",
+        "variable.scss"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Library function",
       "scope": "support.function, support.class support.function",
       "settings": {
@@ -820,8 +830,10 @@
       }
     },
     {
-      "name": "Liquid Tags",
+      "name": "Jekyll Tags",
       "scope": [
+        "punctuation.output.jekyll",
+        "punctuation.tag.jekyll",
         "punctuation.output.liquid",
         "punctuation.tag.liquid"
       ],
@@ -830,22 +842,34 @@
       }
     },
     {
-      "name": "Jekyll Tags",
+      "name": "Jekyll Front Matter",
       "scope": [
-        "punctuation.output.jekyll",
-        "punctuation.tag.jekyll"
+        "frontmatter.jekyll",
+        "frontmatter.liquid"
       ],
       "settings": {
         "foreground": "#C8DDFCD1"
       }
     },
     {
-      "name": "Jekyll Front Matter",
+      "name": "Jekyll Flow Control",
       "scope": [
-        "frontmatter.jekyll"
+        "entity.name.tag.jekyll",
+        "entity.name.tag.jekyll"
       ],
       "settings": {
-        "foreground": "#C8DDFCD1"
+        "foreground": "#F92672",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Jekyll Flow Control",
+      "scope": [
+        "variable.other.jekyll",
+        "variable.other.liquid"
+      ],
+      "settings": {
+        "foreground": "#b267e6"
       }
     },
     {
