@@ -41,6 +41,16 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneDarkRainCoat-Bright.json"
             }
+            {
+                "label": "One Dark Rain Coat No Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ODRC-No-Italics.json"
+            }
+            {
+                "label": "One Dark Rain Coat Bright No Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ODRC-Bright-No-Italics.json"
+            }
         ]
     },
     "extensionDependencies": [

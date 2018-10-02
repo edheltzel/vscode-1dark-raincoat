@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.5.0 | 10-02-2018
+* Adds two new versions - without the Italics that were added from relase v0.4.0
+* Sorry for the multi versions but this is due to the limitations of VSCode currently. Hopefully an option to disable Italics is coming.
+
 ## 0.4.0 | 10-01-2018
 Scss/Css and YAML/JSON syntax updates
 
