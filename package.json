@@ -1,63 +1,63 @@
 {
-    "name": "ginfuru-onedark-raincoat-theme",
-    "displayName": "One Dark Rain Coat",
-    "description": "A modified version of the One Dark + (Sublime Babel) color scheme, plus a custom Workbench theme",
-    "version": "0.5.0",
-    "publisher": "ginfuru",
-    "engines": {
-        "vscode": "^1.12.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "images/icon.png",
-    "galleryBanner": {
-        "color": "#161821",
-        "theme": "dark"
-    },
-    "keywords": [
-        "javascript",
-        "es6",
-        "sublime",
-        "one dark",
-        "atom"
-    ],
-    "license": "SEE LICENSE IN LICENSE.txt",
-    "homepage": "https://github.com/ginfuru/vscode-onedark-raincoat",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/ginfuru/vscode-onedark-raincoat.git"
-    },
-    "bugs": "https://github.com/ginfuru/vscode-onedark-raincoat/issues",
-    "contributes": {
-        "themes": [
-            {
-                "label": "One Dark Rain Coat",
-                "uiTheme": "vs-dark",
-                "path": "./themes/OneDarkRainCoat.json"
-            },
-            {
-                "label": "One Dark Rain Coat Bright",
-                "uiTheme": "vs-dark",
-                "path": "./themes/OneDarkRainCoat-Bright.json"
-            },
-            {
-                "label": "One Dark Rain Coat No Italics",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ODRC-No-Italics.json"
-            },
-            {
-                "label": "One Dark Rain Coat Bright No Italics",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ODRC-Bright-No-Italics.json"
-            }
-        ]
-    },
-    "extensionDependencies": [
-        "joshpeng.sublime-babel-vscode"
-    ],
-    "dependencies": {
-        "global": "^4.3.2",
-        "vsce": "^1.42.0"
-    }
+  "name": "ginfuru-onedark-raincoat-theme",
+  "displayName": "One Dark Rain Coat",
+  "description": "A modified version of the One Dark + (Sublime Babel) color scheme, plus a custom Workbench theme",
+  "version": "0.5.0",
+  "publisher": "ginfuru",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#161821",
+    "theme": "dark"
+  },
+  "keywords": [
+    "javascript",
+    "es6",
+    "sublime",
+    "one dark",
+    "atom"
+  ],
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://github.com/ginfuru/vscode-onedark-raincoat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ginfuru/vscode-onedark-raincoat.git"
+  },
+  "bugs": "https://github.com/ginfuru/vscode-onedark-raincoat/issues",
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Rain Coat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ODRC.json"
+      },
+      {
+        "label": "One Dark Rain Coat Bright",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ODRC-Bright.json"
+      },
+      {
+        "label": "One Dark Rain Coat Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ODRC-Italic.json"
+      },
+      {
+        "label": "One Dark Rain Coat Bright Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ODRC-Bright-Italic.json"
+      }
+    ]
+  },
+  "extensionDependencies": [
+    "joshpeng.sublime-babel-vscode"
+  ],
+  "dependencies": {
+    "global": "^4.3.2",
+    "vsce": "^1.42.0"
+  }
 }
