@@ -1,5 +1,15 @@
 # Change Log
 
+## 0.6.0 | 01-24-2019
+Update Workspace Customizations
+* **SORRY changed the order of the themes**
+  * Non-Italic version are default while Italic version is labled as Italic*
+* Adds consistent color pallete throughout the entire workspace theme
+  * updates to peekview
+  * status bar chages for debug/nofolder
+  * panelTitles and forgrounds are brighter and less `yellowish`
+  * misc color updates
+
 ## 0.5.0 | 10-02-2018
 * Adds two new versions - without the Italics that were added from relase v0.4.0
 * Sorry for the multi versions but this is due to the limitations of VSCode currently. Hopefully an option to disable Italics is coming.
@@ -17,14 +27,14 @@ Adds `"editorIndentGuide.activeBackground"`
 Added `editorActiveLineNumber.foreground` support
 
 ## 0.2.35 | 12-31-2017
-Thanks to [@ajitid](https://github.com/ajitid) 👍🏼 
-- Merge Pull Request [#10](https://github.com/ginfuru/vscode-onedark-raincoat/pull/10) which fixes Issue [#9](https://github.com/ginfuru/vscode-onedark-raincoat/issues/9) 
+Thanks to [@ajitid](https://github.com/ajitid) 👍🏼
+- Merge Pull Request [#10](https://github.com/ginfuru/vscode-onedark-raincoat/pull/10) which fixes Issue [#9](https://github.com/ginfuru/vscode-onedark-raincoat/issues/9)
 
 ## 0.2.34 | 12-25-2017
 - fine tuning the editor theme
 
 ## 0.2.33 | 11-14-2017
-- color adjustments to better match material icons 
+- color adjustments to better match material icons
 
 ## 0.2.32 | 10-11-2017
 - swapped foreground colors to be `#A6B2C0` and active foreground to be `#C8DDFC`
@@ -56,7 +66,7 @@ Fixed an issue with CSS/PostCSS/SCSS/Sass/LESS class syntax color was thrown off
 better support for jekyll
 
 ## 0.2.25 | 09-30-2017
-- changes liquid punctuation to `#C8DDFCD1` to be slightly brighter 
+- changes liquid punctuation to `#C8DDFCD1` to be slightly brighter
 
 ## 0.2.24 | 09-15-2017
 patch release
@@ -99,13 +109,13 @@ Lots of additions regarding the theme
 - added pickerGroup
 
 ## 0.2.16 | 06-07-2017
-PR merged from @joraz - adds additional colors for symobls within JSDoc Comments 
+PR merged from @joraz - adds additional colors for symobls within JSDoc Comments
 
 ## 0.2.15 | 06-05-2017
 last attempt to fix the image paths in readme
 
 ## 0.2.14 | 06-05-2017
-another hotfix for the readme image paths - it’s a monday. 
+another hotfix for the readme image paths - it’s a monday.
 
 ## 0.2.13 | 06-05-2017
 hotfix for screenshot paths in readme agin >:(
