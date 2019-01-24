@@ -10,9 +10,9 @@
   "categories": [
     "Themes"
   ],
-  "icon": "images/icon.png",
+  "icon": "images/icon__raincoat.png",
   "galleryBanner": {
-    "color": "#161821",
+    "color": "#1a1a27",
     "theme": "dark"
   },
   "keywords": [

@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.7.0 | 01-24-2019
+Icon Update
+
 ## 0.6.0 | 01-24-2019
 Update Workspace Customizations
 * **SORRY changed the order of the themes**
