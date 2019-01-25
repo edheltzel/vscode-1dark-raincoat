@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.8.0 | 01-25-2019
+Read me updates and name change to 1Dark RainCoat
+
 ## 0.7.0 | 01-24-2019
 Icon Update
 

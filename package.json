@@ -1,6 +1,6 @@
 {
   "name": "ginfuru-onedark-raincoat-theme",
-  "displayName": "One Dark Rain Coat",
+  "displayName": "1Dark RainCoat",
   "description": "A modified version of the One Dark + (Sublime Babel) color scheme, plus a custom Workbench theme",
   "version": "0.7.0",
   "publisher": "ginfuru",
@@ -23,33 +23,33 @@
     "atom"
   ],
   "license": "SEE LICENSE IN LICENSE.txt",
-  "homepage": "https://github.com/ginfuru/vscode-onedark-raincoat",
+  "homepage": "https://github.com/ginfuru/vscode-1dark-raincoat",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ginfuru/vscode-onedark-raincoat.git"
+    "url": "https://github.com/ginfuru/vscode-1dark-raincoat.git"
   },
-  "bugs": "https://github.com/ginfuru/vscode-onedark-raincoat/issues",
+  "bugs": "https://github.com/ginfuru/vscode-1dark-raincoat/issues",
   "contributes": {
     "themes": [
       {
-        "label": "One Dark Rain Coat",
+        "label": "1Dark RainCoat",
         "uiTheme": "vs-dark",
-        "path": "./themes/ODRC.json"
+        "path": "./themes/1DRC.json"
       },
       {
-        "label": "One Dark Rain Coat Bright",
+        "label": "1Dark RainCoat Bright",
         "uiTheme": "vs-dark",
-        "path": "./themes/ODRC-Bright.json"
+        "path": "./themes/1DRC-Bright.json"
       },
       {
-        "label": "One Dark Rain Coat Italic",
+        "label": "1Dark RainCoat Italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/ODRC-Italic.json"
+        "path": "./themes/1DRC-Italic.json"
       },
       {
-        "label": "One Dark Rain Coat Bright Italic",
+        "label": "1Dark RainCoat Bright Italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/ODRC-Bright-Italic.json"
+        "path": "./themes/1DRC-Bright-Italic.json"
       }
     ]
   },
