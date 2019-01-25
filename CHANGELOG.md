@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.9.0 | 01-25-2019
+Removes broken images
+
 ## 0.8.0 | 01-25-2019
 Read me updates and name change to 1Dark RainCoat
 
