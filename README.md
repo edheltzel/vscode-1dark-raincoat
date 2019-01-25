@@ -5,9 +5,6 @@
 
 </div>
 
-![1drc-screenshot](images/screenshotB.png)
-
-
 ##### For a full list of changes checkout the [changelog](https://marketplace.visualstudio.com/items/ginfuru.ginfuru-onedark-raincoat-theme/changelog)
 
 A modified version of the [One Dark + (Sublime Babel)](https://marketplace.visualstudio.com/items?itemName=joshpeng.theme-onedark-sublime) color scheme and custom Workbench theme for Visual Studio Code.<br>
