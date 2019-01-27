@@ -9,8 +9,7 @@
 
 ##### For a full list of changes checkout the [changelog](https://marketplace.visualstudio.com/items/ginfuru.ginfuru-onedark-raincoat-theme/changelog)
 
-Originally forked from the [One Dark + (Sublime Babel)](https://marketplace.visualstudio.com/items?itemName=joshpeng.theme-onedark-sublime) color scheme but heavily modified and opinionated additions as well as a pretty workbench theme.
-This color scheme/theme **supports ES6/Babel** and is optimized for [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode) Extension.
+Originally forked from the [One Dark + (Sublime Babel)](https://marketplace.visualstudio.com/items?itemName=joshpeng.theme-onedark-sublime) color scheme but heavily modified and opinionated additions as well as a pretty workbench theme, it is also optimized to work with the [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode) extension for all the goodness of **ES6/Babel**.
 
 ### Additional Customization and other Tweaks
 **See something that you'd rather change?**<br>
