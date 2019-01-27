@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.9.1 | 01-26-2019
+Adds JavaScript syntax image
+
 ## 0.9.0 | 01-25-2019
 Removes broken images
 
