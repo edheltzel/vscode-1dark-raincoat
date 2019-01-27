@@ -9,10 +9,10 @@
 
 ##### For a full list of changes checkout the [changelog](https://marketplace.visualstudio.com/items/ginfuru.ginfuru-onedark-raincoat-theme/changelog)
 
-A modified version of the [One Dark + (Sublime Babel)](https://marketplace.visualstudio.com/items?itemName=joshpeng.theme-onedark-sublime) color scheme and custom Workbench theme for Visual Studio Code.<br>
+Originally forked from the [One Dark + (Sublime Babel)](https://marketplace.visualstudio.com/items?itemName=joshpeng.theme-onedark-sublime) color scheme but heavily modified and opinionated additions as well as a pretty workbench theme.
 This color scheme/theme **supports ES6/Babel** and is optimized for [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode) Extension.
 
-# Additional Customization and other Tweaks
+### Additional Customization and other Tweaks
 **See something that you'd rather change?**<br>
 No problem, feel free to edit and customize by using the `workbench.colorCustomizations` setting. Check out the [Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) for additional options.
 
