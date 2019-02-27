@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.9.3 | 02-27-2019
+* removes extention dependency
+* adds new color syntax theme `1Dark Poncho`_(work in progress)_
+  * update to readme and new image
+
 ## 0.9.2 | 02-05-2019
 Hot fix for `editorSuggestWidget.selectedBackground` - gray color was confusing
 

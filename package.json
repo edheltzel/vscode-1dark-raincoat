@@ -50,12 +50,14 @@
         "label": "1Dark RainCoat Bright Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/1DRC-Bright-Italic.json"
+      },
+      {
+        "label": "1Dark Poncho",
+        "uiTheme": "vs-dark",
+        "path": "./themes/1DRC-Poncho.json"
       }
     ]
   },
-  "extensionDependencies": [
-    "joshpeng.sublime-babel-vscode"
-  ],
   "dependencies": {
     "global": "^4.3.2",
     "vsce": "^1.42.0"
