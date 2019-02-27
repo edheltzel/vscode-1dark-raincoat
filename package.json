@@ -54,7 +54,7 @@
     ]
   },
   "extensionDependencies": [
-    "joshpeng.sublime-babel-vscode"
+    // "joshpeng.sublime-babel-vscode"
   ],
   "dependencies": {
     "global": "^4.3.2",
