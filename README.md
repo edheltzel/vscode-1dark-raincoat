@@ -5,7 +5,9 @@
 
 </div>
 
-![JS Syntax](https://raw.githubusercontent.com/ginfuru/vscode-onedark-raincoat/master/images/js.png)
+![JS Syntax RainCoat](https://raw.githubusercontent.com/ginfuru/vscode-onedark-raincoat/master/images/js.png)
+
+![JS Syntax Poncho](https://raw.githubusercontent.com/ginfuru/vscode-onedark-raincoat/master/images/js-alt.png)
 
 ##### For a full list of changes checkout the [changelog](https://marketplace.visualstudio.com/items/ginfuru.ginfuru-onedark-raincoat-theme/changelog)
 
