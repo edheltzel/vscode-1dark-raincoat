@@ -106,13 +106,15 @@
     "statusBar.background": "#101119",
     "statusBar.debuggingBackground": "#473C9B",
     "statusBar.foreground": "#C8DDFC9A",
-    "statusBar.noFolderBackground": "#393b57",
+    "statusBar.noFolderBackground": "#5755d980",
     "statusBarItem.activeBackground": "#473C9B90",
     "statusBarItem.hoverBackground": "#5542C3",
     "tab.activeBackground": "#101119",
     "tab.activeBorder": "#8A78FEAB",
     "tab.activeForeground": "#C8DDFC",
     "tab.border": "#1618217A",
+    "tab.activeModifiedBorder": "#8b78ff",
+    "tab.inactiveModifiedBorder": "#f5008280",
     "tab.hoverBackground": "#10111980",
     "tab.inactiveBackground": "#282D35AB",
     "tab.inactiveForeground": "#C8DDFC7D",
@@ -135,12 +137,7 @@
     },
     {
       "name": "Comment color",
-      "scope": [
-        "comment",
-        "markup.quote.markdown",
-        "meta.diff",
-        "meta.diff.header"
-      ],
+      "scope": [ "comment", "markup.quote.markdown", "meta.diff", "meta.diff.header" ],
       "settings": {
         "foreground": "#5f6167"
       }
@@ -219,11 +216,7 @@
     },
     {
       "name": "Pink",
-      "scope": [
-        "markup.heading",
-        "variable.language.this.js",
-        "variable.language.special.self.python"
-      ],
+      "scope": [ "markup.heading", "variable.language.this.js", "variable.language.special.self.python" ],
       "settings": {
         "foreground": "#ff00aa"
       }
@@ -245,24 +238,14 @@
     },
     {
       "name": "Purple",
-      "scope": [
-        "storage",
-        "keyword",
-        "meta.link",
-        "meta.image",
-        "markup.italic",
-        "source.js support.type"
-      ],
+      "scope": [ "storage", "keyword", "meta.link", "meta.image", "markup.italic", "source.js support.type" ],
       "settings": {
         "foreground": "#c74ded"
       }
     },
     {
       "name": "Blue",
-      "scope": [
-        "string.regexp",
-        "markup.changed"
-      ],
+      "scope": [ "string.regexp", "markup.changed" ],
       "settings": {
         "foreground": "#7cb7ff"
       }
@@ -306,21 +289,14 @@
     },
     {
       "name": "Font Underline",
-      "scope": [
-        "entity.other.inherited-class"
-      ],
+      "scope": [ "entity.other.inherited-class" ],
       "settings": {
         "fontStyle": "underline"
       }
     },
     {
       "name": "Font Italic",
-      "scope": [
-        "comment",
-        "invalid",
-        "keyword",
-        "entity.other.attribute-name",
-      ],
+      "scope": [ "comment", "invalid", "keyword", "entity.other.attribute-name" ],
       "settings": {
         "fontStyle": "italic"
       }
