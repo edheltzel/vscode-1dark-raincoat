@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.9.8 |
+* Optimization efforts and clean up
+
 ## 0.9.7| 02-05-2020
 * Adds hight contrast version of 1DRC Poncho
 
