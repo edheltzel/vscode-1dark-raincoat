@@ -7,21 +7,13 @@
   "engines": {
     "vscode": "^1.12.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": [ "Themes" ],
   "icon": "images/icon__raincoat.png",
   "galleryBanner": {
     "color": "#1a1a27",
     "theme": "dark"
   },
-  "keywords": [
-    "javascript",
-    "es6",
-    "sublime",
-    "one dark",
-    "atom"
-  ],
+  "keywords": [ "javascript", "es6", "sublime", "one dark", "atom" ],
   "license": "SEE LICENSE IN LICENSE.txt",
   "homepage": "https://github.com/ginfuru/vscode-1dark-raincoat",
   "repository": {
@@ -55,6 +47,11 @@
         "label": "1Dark Poncho",
         "uiTheme": "vs-dark",
         "path": "./themes/1DRC-Poncho.json"
+      },
+      {
+        "label": "1Dark PonchoHC",
+        "uiTheme": "vs-dark",
+        "path": "./themes/1DRC-Poncho-HC.json"
       }
     ]
   },
