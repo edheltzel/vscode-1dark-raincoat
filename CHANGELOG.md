@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.9.5 | 02-05-2020
+* Adds hight contrast version of 1DRC Poncho
+
+## 0.9.4 | 07-25-2019
+* Updates the colors of both active and inactive modified tabs
+* Updates status bar of window with No project - its more purplish
+
 ## 0.9.3 | 02-27-2019
 * removes extention dependency
 * adds new color syntax theme `1Dark Poncho`_(work in progress)_
