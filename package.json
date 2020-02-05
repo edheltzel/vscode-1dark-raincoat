@@ -2,18 +2,26 @@
   "name": "ginfuru-onedark-raincoat-theme",
   "displayName": "1Dark RainCoat",
   "description": "A modified version of the One Dark + (Sublime Babel) color scheme, plus a custom Workbench theme",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "publisher": "ginfuru",
   "engines": {
     "vscode": "^1.12.0"
   },
-  "categories": [ "Themes" ],
+  "categories": [
+    "Themes"
+  ],
   "icon": "images/icon__raincoat.png",
   "galleryBanner": {
     "color": "#1a1a27",
     "theme": "dark"
   },
-  "keywords": [ "javascript", "es6", "sublime", "one dark", "atom" ],
+  "keywords": [
+    "javascript",
+    "es6",
+    "sublime",
+    "one dark",
+    "atom"
+  ],
   "license": "SEE LICENSE IN LICENSE.txt",
   "homepage": "https://github.com/ginfuru/vscode-1dark-raincoat",
   "repository": {
