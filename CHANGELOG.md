@@ -1,7 +1,8 @@
 # Change Log
 
-## 0.9.8 |
+## 0.9.8 | 03-19-2020
 * Optimization efforts and clean up
+* Adds 1Light RainCoat version
 
 ## 0.9.7| 02-05-2020
 * Adds hight contrast version of 1DRC Poncho
