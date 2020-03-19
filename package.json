@@ -60,6 +60,11 @@
         "label": "1Dark PonchoHC",
         "uiTheme": "vs-dark",
         "path": "./themes/1DRC-Poncho-HC.json"
+      },
+      {
+        "label": "1Dark RainCoat Light",
+        "uiTheme": "vs",
+        "path": "./themes/1DRC-Light.json"
       }
     ]
   },
