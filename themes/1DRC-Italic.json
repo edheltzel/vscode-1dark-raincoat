@@ -1,5 +1,6 @@
 {
   "name": "1Dark RainCoat Italic",
+  "semanticHighlighting": true,
   "type": "dark",
   "colors": {
     "errorForeground": "#E50A69",
@@ -468,7 +469,7 @@
     },
     {
       "name": "CSS Variables",
-      "scope": [ "variable.argument.css", "variable.scss" ],
+      "scope": ["variable.argument.css", "variable.scss"],
       "settings": {
         "fontStyle": "italic"
       }
@@ -589,7 +590,9 @@
     },
     {
       "name": "JSON Key - Level 0",
-      "scope": [ "source.json meta.structure.dictionary.json support.type.property-name.json" ],
+      "scope": [
+        "source.json meta.structure.dictionary.json support.type.property-name.json"
+      ],
       "settings": {
         "foreground": "#E06C75"
       }
@@ -672,14 +675,14 @@
     },
     {
       "name": "[YML]",
-      "scope": [ "punctuation.definition.block.sequence.item.yaml" ],
+      "scope": ["punctuation.definition.block.sequence.item.yaml"],
       "settings": {
         "foreground": "#D55FDE"
       }
     },
     {
       "name": "[YML]",
-      "scope": [ "string.unquoted.plain.out.yaml" ],
+      "scope": ["string.unquoted.plain.out.yaml"],
       "settings": {
         "foreground": "#89CA78"
       }
@@ -853,14 +856,14 @@
     },
     {
       "name": "Jekyll Front Matter",
-      "scope": [ "frontmatter.jekyll", "frontmatter.liquid" ],
+      "scope": ["frontmatter.jekyll", "frontmatter.liquid"],
       "settings": {
         "foreground": "#C8DDFCD1"
       }
     },
     {
       "name": "Jekyll Flow Control",
-      "scope": [ "entity.name.tag.jekyll", "entity.name.tag.jekyll" ],
+      "scope": ["entity.name.tag.jekyll", "entity.name.tag.jekyll"],
       "settings": {
         "foreground": "#F92672",
         "fontStyle": "italic"
@@ -868,19 +871,25 @@
     },
     {
       "name": "Jekyll Flow Control",
-      "scope": [ "variable.other.jekyll", "variable.other.liquid" ],
+      "scope": ["variable.other.jekyll", "variable.other.liquid"],
       "settings": {
         "foreground": "#b267e6"
       }
     },
     {
-      "scope": [ "punctuation.definition.string.begin", "punctuation.definition.string.end" ],
+      "scope": [
+        "punctuation.definition.string.begin",
+        "punctuation.definition.string.end"
+      ],
       "settings": {
         "foreground": "#98C378"
       }
     },
     {
-      "scope": [ "punctuation.support.type.property-name.begin", "punctuation.support.type.property-name.end" ],
+      "scope": [
+        "punctuation.support.type.property-name.begin",
+        "punctuation.support.type.property-name.end"
+      ],
       "settings": {
         "foreground": "#E06C74"
       }

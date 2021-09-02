@@ -1,5 +1,6 @@
 {
   "name": "1Dark RainCoat Bright",
+  "semanticHighlighting": true,
   "type": "dark",
   "colors": {
     "errorForeground": "#E50A69",
@@ -567,7 +568,9 @@
     },
     {
       "name": "JSON Key - Level 0",
-      "scope": [ "source.json meta.structure.dictionary.json support.type.property-name.json" ],
+      "scope": [
+        "source.json meta.structure.dictionary.json support.type.property-name.json"
+      ],
       "settings": {
         "foreground": "#EF596F"
       }
@@ -646,14 +649,14 @@
     },
     {
       "name": "[YML]",
-      "scope": [ "punctuation.definition.block.sequence.item.yaml" ],
+      "scope": ["punctuation.definition.block.sequence.item.yaml"],
       "settings": {
         "foreground": "#D55FDE"
       }
     },
     {
       "name": "[YML]",
-      "scope": [ "string.unquoted.plain.out.yaml" ],
+      "scope": ["string.unquoted.plain.out.yaml"],
       "settings": {
         "foreground": "#89CA78"
       }
@@ -827,33 +830,39 @@
     },
     {
       "name": "Jekyll Front Matter",
-      "scope": [ "frontmatter.jekyll", "frontmatter.liquid" ],
+      "scope": ["frontmatter.jekyll", "frontmatter.liquid"],
       "settings": {
         "foreground": "#C8DDFCD1"
       }
     },
     {
       "name": "Jekyll Flow Control",
-      "scope": [ "entity.name.tag.jekyll", "entity.name.tag.jekyll" ],
+      "scope": ["entity.name.tag.jekyll", "entity.name.tag.jekyll"],
       "settings": {
         "foreground": "#F92672"
       }
     },
     {
       "name": "Jekyll Flow Control",
-      "scope": [ "variable.other.jekyll", "variable.other.liquid" ],
+      "scope": ["variable.other.jekyll", "variable.other.liquid"],
       "settings": {
         "foreground": "#b267e6"
       }
     },
     {
-      "scope": [ "punctuation.definition.string.begin", "punctuation.definition.string.end" ],
+      "scope": [
+        "punctuation.definition.string.begin",
+        "punctuation.definition.string.end"
+      ],
       "settings": {
         "foreground": "#89CA77"
       }
     },
     {
-      "scope": [ "punctuation.support.type.property-name.begin", "punctuation.support.type.property-name.end" ],
+      "scope": [
+        "punctuation.support.type.property-name.begin",
+        "punctuation.support.type.property-name.end"
+      ],
       "settings": {
         "foreground": "#EF596E"
       }

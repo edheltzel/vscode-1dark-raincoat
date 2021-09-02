@@ -1,5 +1,6 @@
 {
   "name": "1Dark RainCoat",
+  "semanticHighlighting": true,
   "type": "dark",
   "colors": {
     "errorForeground": "#E50A69",

@@ -1,3 +1,10 @@
 {
-
+  "files.exclude": {
+    "node_modules": true
+  },
+  "search.exclude": {
+    ".vscode/**": true,
+    "*.lock": true,
+    "node_modules/": true,
+  }
 }

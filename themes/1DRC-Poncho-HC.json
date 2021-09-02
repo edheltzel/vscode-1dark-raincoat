@@ -1,5 +1,6 @@
 {
   "name": "1Dark Poncho HC",
+  "semanticHighlighting": true,
   "type": "dark",
   "colors": {
     "foreground": "#f9faff",
@@ -206,7 +207,12 @@
     },
     {
       "name": "Comment color",
-      "scope": [ "comment", "markup.quote.markdown", "meta.diff", "meta.diff.header" ],
+      "scope": [
+        "comment",
+        "markup.quote.markdown",
+        "meta.diff",
+        "meta.diff.header"
+      ],
       "settings": {
         "foreground": "#5f6167"
       }
@@ -287,7 +293,11 @@
     },
     {
       "name": "Pink",
-      "scope": [ "markup.heading", "variable.language.this.js", "variable.language.special.self.python" ],
+      "scope": [
+        "markup.heading",
+        "variable.language.this.js",
+        "variable.language.special.self.python"
+      ],
       "settings": {
         "foreground": "#ff00aa"
       }
@@ -324,7 +334,7 @@
     },
     {
       "name": "Blue",
-      "scope": [ "string.regexp", "markup.changed" ],
+      "scope": ["string.regexp", "markup.changed"],
       "settings": {
         "foreground": "#7cb7ff"
       }
@@ -366,14 +376,14 @@
     },
     {
       "name": "Font Underline",
-      "scope": [ "entity.other.inherited-class" ],
+      "scope": ["entity.other.inherited-class"],
       "settings": {
         "fontStyle": "underline"
       }
     },
     {
       "name": "Font Italic",
-      "scope": [ "comment", "invalid", "keyword", "entity.other.attribute-name" ],
+      "scope": ["comment", "invalid", "keyword", "entity.other.attribute-name"],
       "settings": {
         "fontStyle": "italic"
       }

@@ -1,5 +1,6 @@
 {
   "name": "1Dark RainCoat Light",
+  "semanticHighlighting": true,
   "type": "light",
   "$schema": "vscode://schemas/color-theme",
   "colors": {
